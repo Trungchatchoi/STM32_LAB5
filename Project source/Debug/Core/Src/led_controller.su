@@ -1,0 +1,13 @@
+led_controller.c:15:6:traffic_light	16	static
+led_controller.c:47:6:display7SEG	16	static
+led_controller.c:144:5:update_status	16	static
+led_controller.c:153:5:update_index	16	static
+led_controller.c:162:6:update7SEG	16	static
+led_controller.c:203:6:clear_all_led	8	static
+led_controller.c:212:6:clear_led	16	static
+led_controller.c:235:6:set_manual	16	static
+led_controller.c:255:6:change_state	16	static
+led_controller.c:272:6:led_blinky	16	static
+led_controller.c:292:6:update_led_status	4	static
+led_controller.c:317:6:updateBuffer1	16	static
+led_controller.c:357:6:updateBuffer2	16	static
